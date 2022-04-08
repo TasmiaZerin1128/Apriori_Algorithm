@@ -1,4 +1,4 @@
-package com.aprior.apriori_ui;
+package apriori_ui;
 
 import java.util.List;
 import java.util.Map;

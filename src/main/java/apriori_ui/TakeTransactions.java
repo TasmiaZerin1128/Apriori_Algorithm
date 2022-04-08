@@ -1,4 +1,4 @@
-package com.aprior.apriori_ui;
+package apriori_ui;
 
 import java.io.File;
 import java.io.FileNotFoundException;

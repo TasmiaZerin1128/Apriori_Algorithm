@@ -1,4 +1,4 @@
-package com.aprior.apriori_ui;
+package apriori_ui;
 
 import javafx.application.Application;
 import javafx.scene.Scene;
